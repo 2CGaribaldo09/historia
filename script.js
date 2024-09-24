@@ -1,3 +1,5 @@
+Carlos Eduardo Santana Castro 2C 27.08.24
+
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
