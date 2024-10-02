@@ -1,4 +1,4 @@
-Carlos Eduardo Santana Castro 2C 11.09.24
+//Carlos Eduardo Santana Castro 2C 11.09.24
 
 const avanca = document.querySelectorAll('.btn-proximo');
 
